@@ -1,0 +1,12 @@
+# s=0
+# for i in range(10,50,10):
+#     s+=i
+# print(s)
+
+#s=0+10
+i=10
+s=0
+while(i<=50):
+    s=s+i
+    i+=10
+print(s)
